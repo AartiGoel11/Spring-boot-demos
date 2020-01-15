@@ -1,0 +1,1 @@
+2018-12-14 11:55:20,963 ERROR [in.tp.adb.dao.ContactRepositoryImpl] java.sql.SQLException: Database 'contactsDB' not found.
