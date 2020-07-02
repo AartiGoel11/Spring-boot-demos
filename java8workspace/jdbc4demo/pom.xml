@@ -7,7 +7,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 
 	<properties>
-		<mysql-ver>5.1.6</mysql-ver>
+		<mysql-ver>8.0.16</mysql-ver>
 	</properties>
 
 	<dependencies>
